@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Dr. Tim Schürmann
+logo: "/images/profile_image.jpg?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior Data Scientist with a background in psychology
   <br><br>
-  Second description 
+  This portfolio showcases a selection of projects I have engaged in privately or professionally. In the latter case, projects have been rebuilt to omit sensitive information.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="linkedin.com/in/tim-schürmann-865731ab">View my LinkedIn Profile</a> 
+  <a href="github.com/tim-schuermann">View my Github Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
