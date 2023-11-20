@@ -16,4 +16,5 @@ For the Electron app to access API endpoints that require authentication, it nee
 
 ### Related repositories
 For more details on the FastAPI backend, see [FastAPI backend](github.com/tim-schuermann/PostgresNavigator_Backend).
+
 For more details on the Electron frontend, see [Electron frontend](github.com/tim-schuermann/PostgresNavigator).
