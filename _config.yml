@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   This portfolio showcases a selection of projects I have engaged in privately or professionally. In the latter case, projects have been rebuilt to omit sensitive information.
   <br><br>
-  <a href="linkedin.com/in/tim-schürmann-865731ab">View my LinkedIn Profile</a> 
-  <a href="github.com/tim-schuermann">View my Github Profile</a>
+  <a href="linkedin.com/in/tim-schürmann-865731ab">View my LinkedIn Profile</a><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
