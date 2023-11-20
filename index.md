@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Machine Learning Web App using Flask](/projects/vgf_elevators)
+[Machine Learning Web App using Flask](/projects/vgf_elevators)<br>
 <img src="images/flask_logo.png?raw=true" height="150"/>
 
 ---
-[Electron-based PostgreSQL Navigator App](/projects/postgresnav)
+[Electron-based PostgreSQL Navigator App](/projects/postgresnav)<br>
 <img src="images/electron_logo.png?raw=true" height="150"/>
 
 ---
