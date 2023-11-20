@@ -2,9 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-[Machine Learning Web App using Flask](/projects/vgf_elevators)<br>
+[Predicting elevator outages at subway stations in Frankfurt, Germany](/projects/vgf_elevators)<br>
 <img src="images/flask_logo.png?raw=true" height="150"/>
 
 ---
