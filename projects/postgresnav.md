@@ -1,6 +1,6 @@
 ## Electron-based PostgreSQL Navigator App
 
-<img src="images/postgresnav_db.jpg?raw=true"/>
+<img src="../images/postgresnav_db.jpg?raw=true"/>
 
 **Project description:** Many data scientists may be familiar with the scenario that colleagues from teams that are not coding-related can struggle to retrieve and manage information from databases. Based on a project where budgetary information was handled via a PostgreSQL database, in this project I host a PostgreSQL database with fake budgetary information on railway.app. I use a FastAPI backend to expose endpoints to an Electron app where end users can filter transaction items based on company domain, project, or cost type and retrieve summary information on those items. While the project itself is fairly limited in functionality, the following sections highlight more involved aspects to show my experience with them.
 
