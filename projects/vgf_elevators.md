@@ -17,5 +17,7 @@ The Random Forest classifier trained on the station name and the time since last
 | Working | 16178 | 0 |
 | Not working | 6 | 2389 |
 
+The data used for training and testing currently encompasses the third quarter of 2023. Regularly scheduled model updates on a quarterly basis are planned, with the option for intermediate retraining based on data drift indicators.
+
 ### Related repositories
 For more details on the project, see [Elevator Accessibility Project]().
