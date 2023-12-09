@@ -12,7 +12,8 @@ To properly train a classifier on the data, datapoints representing both functio
 
 ### Initial performance
 The Random Forest classifier trained on the station name and the time since last outage performs well on both the train and test set. It achieves a test set accuracy of 0.99 based on the following confusion matrix:
-|        | Predicted working | Predicted not working |
+
+| Performance       | Predicted working | Predicted not working |
 | ---    | ---   | --- |
 | Working | 16178 | 0 |
 | Not working | 6 | 2389 |
