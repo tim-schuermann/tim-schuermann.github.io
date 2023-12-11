@@ -3,7 +3,7 @@
 ---
 
 [Predicting elevator outages at subway stations in Frankfurt, Germany](/projects/vgf_elevators)<br>
-<img src="images/flask_logo.png?raw=true" height="150"/>
+<img src="images/flask_static.png?raw=true" height="150"/>
 
 ---
 [Electron-based PostgreSQL Navigator App](/projects/postgresnav)<br>
